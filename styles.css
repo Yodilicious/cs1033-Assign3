@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu-home {
+	background-image: url('images/home.png');
+	width: 149;
+	height: 36;
+}
+
+.menu-home-selected {
+	background-image: url('images/home_hover.png');
+	width: 149;
+	height: 36;
+}
+
+.menu-home:hover {
+	background-image: url('images/home_hover.png');
+	width: 149;
+	height: 36;
+}
+
+.menu-invitations {
+	background-image: url('images/invitations.png');
+	width: 147;
+	height: 36;
+}
+
+.menu-invitations-selected {
+	background-image: url('images/invitations_hover.png');
+	width: 147;
+	height: 36;
+}
+
+.menu-invitations:hover {
+	background-image: url('images/invitations_hover.png');
+	width: 147;
+	height: 36;
+}
+
+.menu-party-favours {
+	background-image: url('images/party_favours.png');
+	width: 177;
+	height: 36;
+}
+
+.menu-party-favours-selected {
+	background-image: url('images/party_favours_hover.png');
+	width: 177;
+	height: 36;
+}
+
+.menu-party-favours:hover {
+	background-image: url('images/party_favours_hover.png');
+	width: 177;
+	height: 36;
+}
+
+.menu-faqs {
+	background-image: url('images/faqs.png');
+	width: 72;
+	height: 36;
+}
+
+.menu-faqs-selected {
+	background-image: url('images/faqs_hover.png');
+	width: 72;
+	height: 36;
+}
+
+.menu-faqs:hover {
+	background-image: url('images/faqs_hover.png');
+	width: 72;
+	height: 36;
+}
+
+.menu-contact-us {
+	background-image: url('images/contact_us.png');
+	width: 146;
+	height: 36;
+}
+
+.menu-contact-us-selected {
+	background-image: url('images/contact_us_hover.png');
+	width: 146;
+	height: 36;
+}
+
+.menu-contact-us:hover {
+	background-image: url('images/contact_us_hover.png');
+	width: 146;
+	height: 36;
+}
+
+.menu-references {
+	background-image: url('images/references.png');
+	width: 209;
+	height: 36;
+}
+
+.menu-references-selected {
+	background-image: url('images/references_hover.png');
+	width: 209;
+	height: 36;
+}
+
+.menu-references:hover {
+	background-image: url('images/references_hover.png');
+	width: 209;
+	height: 36;
+}
+
+.default-text {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 110%;
+	color: #DDD;
+}
