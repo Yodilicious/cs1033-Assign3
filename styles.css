@@ -120,6 +120,7 @@ html {
 }
 
 ul, ol {
+	list-style-type: square;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 110%;
 	color: #DDD;
@@ -129,6 +130,37 @@ h3 {
 	color: #c9a477;
 }
 
-.first-heading {
-	padding-top: 20px;
+.full-page-margin {
+	padding: 20px 8px 0 8px;
+}
+
+.emphasize-text {
+	font-weight: bold;
+	font-size: 140%;
+	color: #E26153;
+}
+
+.footer {
+	padding: 10px 8px 0 8px;
+}
+
+.footer-box {
+	padding: 5px 8px 5px 8px;
+	background-color: #555;
+}
+
+a:link {
+    color: #DDD;
+}
+
+a:visited {
+    color: #DDD;
+}
+
+a:hover {
+    color: #97A697;
+}
+
+a:active {
+    color: #DDD;
 }
